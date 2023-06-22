@@ -1,0 +1,6 @@
+﻿  Funkcje.cpp
+C:\Users\marci\source\repos\test_gra_fabryka_jaboli\test_gra_fabryka_jaboli\Funkcje.cpp(15,9): warning C4244:  "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\marci\source\repos\test_gra_fabryka_jaboli\test_gra_fabryka_jaboli\Funkcje.cpp(75,19): warning C4244:  "=": konwersja z "double" do "int", możliwa utrata danych
+Funkcje.obj : error LNK2019: nierozpoznany zewnętrzny symbol "public: void __thiscall Wektor<double>::dodaj(double)" (?dodaj@?$Wektor@N@@QAEXN@Z) przywołany w funkcji "void __cdecl wpiszTablica(class WynikGry &)" (?wpiszTablica@@YAXAAVWynikGry@@@Z)
+Funkcje.obj : error LNK2019: nierozpoznany zewnętrzny symbol "public: double __thiscall Wektor<double>::suma(void)" (?suma@?$Wektor@N@@QAENXZ) przywołany w funkcji "void __cdecl wypiszKoncowyWynik(class WynikGry &)" (?wypiszKoncowyWynik@@YAXAAVWynikGry@@@Z)
+C:\Users\marci\source\repos\test_gra_fabryka_jaboli\Debug\test_gra_fabryka_jaboli.exe : fatal error LNK1120: liczba nierozpoznanych elementów zewnętrznych: 2

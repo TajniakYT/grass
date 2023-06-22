@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Statystyki">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAQAQAAAAAEAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Funkcje.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pieniadze">
+    <Position X="4.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Funkcje.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zyski">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Funkcje.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wydatki">
+    <Position X="6.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAEAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Funkcje.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ulepszenia">
+    <Position X="2.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIABAAAAAABAAAAAAAAAABAAA=</HashCode>
+      <FileName>Funkcje.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wynik">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAQAAABAA=</HashCode>
+      <FileName>Funkcje.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WynikGry">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Funkcje.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wektor&lt;T&gt;">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAACAAEBAAAAAgAAAAAAAAI=</HashCode>
+      <FileName>wektor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Komorka&lt;Type&gt;">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAAAAACAAAAAAAAIAAAA=</HashCode>
+      <FileName>komorka.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
