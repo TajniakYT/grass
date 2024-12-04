@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{02256A64-D470-400E-8A26-DB521F0A6E80}|BitMapCompressor\\BitMapCompressor.vcxproj|solutionrelative:BitMapCompressor\\BitMapCompressor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1C1644B-DE7B-436B-A56C-03CF92B734C7}|DLL\\DLL.vcxproj|C:\\Users\\marci\\OneDrive\\Pulpit\\grass\\Sol\\DLL\\asmFunction.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{E1C1644B-DE7B-436B-A56C-03CF92B734C7}|DLL\\DLL.vcxproj|solutionrelative:DLL\\asmFunction.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{E1C1644B-DE7B-436B-A56C-03CF92B734C7}|DLL\\DLL.vcxproj|C:\\Users\\marci\\OneDrive\\Pulpit\\grass\\Sol\\DLL\\compressRLEAsm.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E1C1644B-DE7B-436B-A56C-03CF92B734C7}|DLL\\DLL.vcxproj|solutionrelative:DLL\\compressRLEAsm.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1C1644B-DE7B-436B-A56C-03CF92B734C7}|DLL\\DLL.vcxproj|C:\\Users\\marci\\OneDrive\\Pulpit\\grass\\Sol\\DLL\\moduleDefinition.def||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -26,6 +26,19 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "compressRLEAsm.asm",
+              "DocumentMoniker": "C:\\Users\\marci\\OneDrive\\Pulpit\\grass\\Sol\\DLL\\compressRLEAsm.asm",
+              "RelativeDocumentMoniker": "DLL\\compressRLEAsm.asm",
+              "ToolTip": "C:\\Users\\marci\\OneDrive\\Pulpit\\grass\\Sol\\DLL\\compressRLEAsm.asm",
+              "RelativeToolTip": "DLL\\compressRLEAsm.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-24T10:44:16.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "moduleDefinition.def",
               "DocumentMoniker": "C:\\Users\\marci\\OneDrive\\Pulpit\\grass\\Sol\\DLL\\moduleDefinition.def",
@@ -39,26 +52,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "asmFunction.asm",
-              "DocumentMoniker": "C:\\Users\\marci\\OneDrive\\Pulpit\\grass\\Sol\\DLL\\asmFunction.asm",
-              "RelativeDocumentMoniker": "DLL\\asmFunction.asm",
-              "ToolTip": "C:\\Users\\marci\\OneDrive\\Pulpit\\grass\\Sol\\DLL\\asmFunction.asm",
-              "RelativeToolTip": "DLL\\asmFunction.asm",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-24T10:44:16.853Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "BitMapCompressor.cpp",
               "DocumentMoniker": "C:\\Users\\marci\\OneDrive\\Pulpit\\grass\\Sol\\BitMapCompressor\\BitMapCompressor.cpp",
               "RelativeDocumentMoniker": "BitMapCompressor\\BitMapCompressor.cpp",
               "ToolTip": "C:\\Users\\marci\\OneDrive\\Pulpit\\grass\\Sol\\BitMapCompressor\\BitMapCompressor.cpp",
               "RelativeToolTip": "BitMapCompressor\\BitMapCompressor.cpp",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGoAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-24T10:04:02.372Z",
               "EditorCaption": ""

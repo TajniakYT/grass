@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <MASM Include="asmFunction.asm" />
+    <MASM Include="compressRLEAsm.asm" />
   </ItemGroup>
   <ItemGroup>
     <None Include="moduleDefinition.def" />
