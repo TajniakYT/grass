@@ -1,0 +1,7 @@
+﻿  BitMapCompressor.cpp
+C:\Users\marci\OneDrive\Pulpit\grass\Sol\BitMapCompressor\BitMapCompressor.cpp(73,30): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\marci\OneDrive\Pulpit\grass\Sol\BitMapCompressor\BitMapCompressor.cpp(73,30): warning C4267:         with
+C:\Users\marci\OneDrive\Pulpit\grass\Sol\BitMapCompressor\BitMapCompressor.cpp(73,30): warning C4267:         [
+C:\Users\marci\OneDrive\Pulpit\grass\Sol\BitMapCompressor\BitMapCompressor.cpp(73,30): warning C4267:             _Ty=uint8_t
+C:\Users\marci\OneDrive\Pulpit\grass\Sol\BitMapCompressor\BitMapCompressor.cpp(73,30): warning C4267:         ]
+  BitMapCompressor.vcxproj -> C:\Users\marci\OneDrive\Pulpit\grass\Sol\x64\Debug\BitMapCompressor.exe
